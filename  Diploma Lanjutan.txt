@@ -1,0 +1,17 @@
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Kebidanan, Year 2014 = 1110, Year 2015 = 1148, Year 2016 = 962, Year 2017 = 1175, Year 2018 = 1203, Year 2019 = 1000
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Rapi, Year 2014 = 147, Year 2015 = 130, Year 2016 = 119, Year 2017 = 132, Year 2018 = 130, Year 2019 = 113
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Perioperatif, Year 2014 = 160, Year 2015 = 138, Year 2016 = 104, Year 2017 = 147, Year 2018 = 133, Year 2019 = 120
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Kesihatan Kardiovascular, Year 2014 = 136, Year 2015 = 111, Year 2016 = 107, Year 2017 = 110, Year 2018 = 129, Year 2019 = 126
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Onkologi, Year 2014 = 54, Year 2015 = 0, Year 2016 = 50, Year 2017 = 47, Year 2018 = 55, Year 2019 = 54
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Gerontologi, Year 2014 = 25, Year 2015 = 11, Year 2016 = 19, Year 2017 = 21, Year 2018 = 25, Year 2019 = 57
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Sitologi, Year 2014 = 24, Year 2015 = 14, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 20
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Transfusi Darah, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 38, Year 2018 = 0, Year 2019 = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Histopatologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 14, Year 2018 = 0, Year 2019 = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Pengimejan Perubatan (Payudara), Year 2014 = 0, Year 2015 = 16, Year 2016 = 11, Year 2017 = 11, Year 2018 = 0, Year 2019 = 12
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Haematologi, Year 2014 = 27, Year 2015 = 23, Year 2016 = 0, Year 2017 = 0, Year 2018 = 20, Year 2019 = 0
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Paliatif, Year 2014 = 17, Year 2015 = 20, Year 2016 = 18, Year 2017 = 18, Year 2018 = 17, Year 2019 = 18
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Perawatan Kesihatan Mental, Year 2014 = 77, Year 2015 = 67, Year 2016 = 61, Year 2017 = 83, Year 2018 = 96, Year 2019 = 98
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Kecemasan, Year 2014 = 526, Year 2015 = 535, Year 2016 = 395, Year 2017 = 235, Year 2018 = 377, Year 2019 = 354
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Pengurusan Penjagaan Kesihatan, Year 2014 = 39, Year 2015 = 35, Year 2016 = 0, Year 2017 = 14, Year 2018 = 14, Year 2019 = 17
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Penjagaan Respiratori, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 27, Year 2018 = 18, Year 2019 = 14
+Category =  Diploma Lanjutan, Name = Diploma Lanjutan Rehabilitasi Neuro, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 25, Year 2019 = 5
