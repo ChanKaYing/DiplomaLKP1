@@ -1,45 +1,45 @@
-Category = Kursus Pengkhususan, Name = Perawatan Renal/ Nefrologi, Year 2014 = 331, Year 2015 = 381, Year 2016 = 358, Year 2017 = 371, Year 2018 = 366, Year 2019 = 350
-Category = Kursus Pengkhususan, Name = Kejururawatan Kesihatan Awam, Year 2014 = 265, Year 2015 = 321, Year 2016 = 326, Year 2017 = 263, Year 2018 = 253, Year 2019 = 206
-Category = Kursus Pengkhususan, Name = Perawatan Pediatrik, Year 2014 = 283, Year 2015 = 246, Year 2016 = 241, Year 2017 = 228, Year 2018 = 260, Year 2019 = 182
-Category = Kursus Pengkhususan, Name = Perawatan Ortopedik, Year 2014 = 247, Year 2015 = 248, Year 2016 = 206, Year 2017 = 200, Year 2018 = 249, Year 2019 = 243
-Category = Kursus Pengkhususan, Name = Perawatan Neonat, Year 2014 = 187, Year 2015 = 187, Year 2016 = 140, Year 2017 = 140, Year 2018 = 237, Year 2019 = 224
-Category = Kursus Pengkhususan, Name = Pengurusan Diabetis, Year 2014 = 143, Year 2015 = 147, Year 2016 = 142, Year 2017 = 233, Year 2018 = 224, Year 2019 = 145
-Category = Kursus Pengkhususan, Name = Kawalan Infeksi, Year 2014 = 174, Year 2015 = 143, Year 2016 = 154, Year 2017 = 176, Year 2018 = 176, Year 2019 = 164
-Category = Kursus Pengkhususan, Name = Perawatan Oftalmik, Year 2014 = 57, Year 2015 = 62, Year 2016 = 58, Year 2017 = 47, Year 2018 = 66, Year 2019 = 80
-Category = Kursus Pengkhususan, Name = Penjagaan Kesihatan Primer, Year 2014 = 76, Year 2015 = 57, Year 2016 = 52, Year 2017 = 56, Year 2018 = 77, Year 2019 = 109
-Category = Kursus Pengkhususan, Name = Perawatan Perianestesia, Year 2014 = 118, Year 2015 = 150, Year 2016 = 104, Year 2017 = 111, Year 2018 = 154, Year 2019 = 136
-Category = Kursus Pengkhususan, Name = Pengurusan Makmal, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Perawatan Neurosains, Year 2014 = 46, Year 2015 = 48, Year 2016 = 48, Year 2017 = 47, Year 2018 = 63, Year 2019 = 32
-Category = Kursus Pengkhususan, Name = Perawatan Otorinolaringologi, Year 2014 = 50, Year 2015 = 40, Year 2016 = 39, Year 2017 = 30, Year 2018 = 49, Year 2019 = 54
-Category = Kursus Pengkhususan, Name = Perubatan Sukan, Year 2014 = 31, Year 2015 = 25, Year 2016 = 0, Year 2017 = 10, Year 2018 = 50, Year 2019 = 31
-Category = Kursus Pengkhususan, Name = Gastrointestinal Endoscopy, Year 2014 = 74, Year 2015 = 51, Year 2016 = 54, Year 2017 = 83, Year 2018 = 99, Year 2019 = 85
-Category = Kursus Pengkhususan, Name = Penyiasatan & Pendakwaan Undang-Undang, Year 2014 = 10, Year 2015 = 16, Year 2016 = 12, Year 2017 = 12, Year 2018 = 11, Year 2019 = 19
-Category = Kursus Pengkhususan, Name = Perawatan Rehabilitasi, Year 2014 = 30, Year 2015 = 39, Year 2016 = 46, Year 2017 = 48, Year 2018 = 52, Year 2019 = 50
-Category = Kursus Pengkhususan, Name = Rawatan Ortodontik, Year 2014 = 0, Year 2015 = 26, Year 2016 = 0, Year 2017 = 0, Year 2018 = 26, Year 2019 = 25
-Category = Kursus Pengkhususan, Name = Kesihatan Persekitaran, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Anaesthesia, Year 2014 = 0, Year 2015 = 6, Year 2016 = 14, Year 2017 = 12, Year 2018 = 7, Year 2019 = 18
-Category = Kursus Pengkhususan, Name = Rawatan Peridontik, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 22, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Kaunseling HIV/AIDS, Year 2014 = 44, Year 2015 = 14, Year 2016 = 15, Year 2017 = 65, Year 2018 = 86, Year 2019 = 98
-Category = Kursus Pengkhususan, Name = Pembedahan Mulut (Maksilofasial), Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Kesihatan & Keselamatan Pekerja, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Mikrobiologi Perubatan, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 20
-Category = Kursus Pengkhususan, Name = Penjagaan Pergigian Pediatrik, Year 2014 = 0, Year 2015 = 0, Year 2016 = 25, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Hemeostasis, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Sediaan Farmaseutikal Steril, Year 2014 = 19, Year 2015 = 18, Year 2016 = 10, Year 2017 = 18, Year 2018 = 0, Year 2019 = 16
-Category = Kursus Pengkhususan, Name = Patologi Kimia, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Neurofisiologi Klinikal, Year 2014 = 0, Year 2015 = 10, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Tomografi Berkomputer, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 48, Year 2019 = 31
-Category = Kursus Pengkhususan, Name = Forensik, Year 2014 = 10, Year 2015 = 16, Year 2016 = 11, Year 2017 = 0, Year 2018 = 18, Year 2019 = 17
-Category = Kursus Pengkhususan, Name = Parasitologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Muskulo - Skeletal, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Keselamatan & Kebersihan Makanan, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Prostesis Maksilofasial, Year 2014 = 16, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Perancangan Terapi Pancaran, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Bioteknologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Cytogenetics, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Epidemiologi dan Kawalan Penyakit, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 18
-Category = Kursus Pengkhususan, Name = Kardiopulmonari Fisioterapi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Neurologi Fisioterapi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0
-Category = Kursus Pengkhususan, Name = Penjagaan Dermatologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 23, Year 2019 = 36
-Category = Kursus Pengkhususan, Name = Penjagaan Luka, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 30
-Category = Kursus Pengkhususan, Name = Penjagaan Reumatologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 14
+Category = Kursus Pengkhususan, Name = Perawatan Renal/ Nefrologi, Year 2014 = 331, Year 2015 = 381, Year 2016 = 358, Year 2017 = 371, Year 2018 = 366, Year 2019 = 350, total = 2157, max = 381, min = 331
+Category = Kursus Pengkhususan, Name = Kejururawatan Kesihatan Awam, Year 2014 = 265, Year 2015 = 321, Year 2016 = 326, Year 2017 = 263, Year 2018 = 253, Year 2019 = 206, total = 1634, max = 326, min = 206
+Category = Kursus Pengkhususan, Name = Perawatan Pediatrik, Year 2014 = 283, Year 2015 = 246, Year 2016 = 241, Year 2017 = 228, Year 2018 = 260, Year 2019 = 182, total = 1440, max = 283, min = 182
+Category = Kursus Pengkhususan, Name = Perawatan Ortopedik, Year 2014 = 247, Year 2015 = 248, Year 2016 = 206, Year 2017 = 200, Year 2018 = 249, Year 2019 = 243, total = 1393, max = 249, min = 200
+Category = Kursus Pengkhususan, Name = Perawatan Neonat, Year 2014 = 187, Year 2015 = 187, Year 2016 = 140, Year 2017 = 140, Year 2018 = 237, Year 2019 = 224, total = 1115, max = 237, min = 140
+Category = Kursus Pengkhususan, Name = Pengurusan Diabetis, Year 2014 = 143, Year 2015 = 147, Year 2016 = 142, Year 2017 = 233, Year 2018 = 224, Year 2019 = 145, total = 1034, max = 233, min = 142
+Category = Kursus Pengkhususan, Name = Kawalan Infeksi, Year 2014 = 174, Year 2015 = 143, Year 2016 = 154, Year 2017 = 176, Year 2018 = 176, Year 2019 = 164, total = 987, max = 176, min = 143
+Category = Kursus Pengkhususan, Name = Perawatan Oftalmik, Year 2014 = 57, Year 2015 = 62, Year 2016 = 58, Year 2017 = 47, Year 2018 = 66, Year 2019 = 80, total = 370, max = 80, min = 47
+Category = Kursus Pengkhususan, Name = Penjagaan Kesihatan Primer, Year 2014 = 76, Year 2015 = 57, Year 2016 = 52, Year 2017 = 56, Year 2018 = 77, Year 2019 = 109, total = 427, max = 109, min = 52
+Category = Kursus Pengkhususan, Name = Perawatan Perianestesia, Year 2014 = 118, Year 2015 = 150, Year 2016 = 104, Year 2017 = 111, Year 2018 = 154, Year 2019 = 136, total = 773, max = 154, min = 104
+Category = Kursus Pengkhususan, Name = Pengurusan Makmal, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Perawatan Neurosains, Year 2014 = 46, Year 2015 = 48, Year 2016 = 48, Year 2017 = 47, Year 2018 = 63, Year 2019 = 32, total = 284, max = 63, min = 32
+Category = Kursus Pengkhususan, Name = Perawatan Otorinolaringologi, Year 2014 = 50, Year 2015 = 40, Year 2016 = 39, Year 2017 = 30, Year 2018 = 49, Year 2019 = 54, total = 262, max = 54, min = 30
+Category = Kursus Pengkhususan, Name = Perubatan Sukan, Year 2014 = 31, Year 2015 = 25, Year 2016 = 0, Year 2017 = 10, Year 2018 = 50, Year 2019 = 31, total = 147, max = 50, min = 0
+Category = Kursus Pengkhususan, Name = Gastrointestinal Endoscopy, Year 2014 = 74, Year 2015 = 51, Year 2016 = 54, Year 2017 = 83, Year 2018 = 99, Year 2019 = 85, total = 446, max = 99, min = 51
+Category = Kursus Pengkhususan, Name = Penyiasatan & Pendakwaan Undang-Undang, Year 2014 = 10, Year 2015 = 16, Year 2016 = 12, Year 2017 = 12, Year 2018 = 11, Year 2019 = 19, total = 80, max = 19, min = 10
+Category = Kursus Pengkhususan, Name = Perawatan Rehabilitasi, Year 2014 = 30, Year 2015 = 39, Year 2016 = 46, Year 2017 = 48, Year 2018 = 52, Year 2019 = 50, total = 265, max = 52, min = 30
+Category = Kursus Pengkhususan, Name = Rawatan Ortodontik, Year 2014 = 0, Year 2015 = 26, Year 2016 = 0, Year 2017 = 0, Year 2018 = 26, Year 2019 = 25, total = 77, max = 26, min = 0
+Category = Kursus Pengkhususan, Name = Kesihatan Persekitaran, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Anaesthesia, Year 2014 = 0, Year 2015 = 6, Year 2016 = 14, Year 2017 = 12, Year 2018 = 7, Year 2019 = 18, total = 57, max = 18, min = 0
+Category = Kursus Pengkhususan, Name = Rawatan Peridontik, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 22, Year 2018 = 0, Year 2019 = 0, total = 22, max = 22, min = 0
+Category = Kursus Pengkhususan, Name = Kaunseling HIV/AIDS, Year 2014 = 44, Year 2015 = 14, Year 2016 = 15, Year 2017 = 65, Year 2018 = 86, Year 2019 = 98, total = 322, max = 98, min = 14
+Category = Kursus Pengkhususan, Name = Pembedahan Mulut (Maksilofasial), Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Kesihatan & Keselamatan Pekerja, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Mikrobiologi Perubatan, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 20, total = 20, max = 20, min = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Pergigian Pediatrik, Year 2014 = 0, Year 2015 = 0, Year 2016 = 25, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 25, max = 25, min = 0
+Category = Kursus Pengkhususan, Name = Hemeostasis, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Sediaan Farmaseutikal Steril, Year 2014 = 19, Year 2015 = 18, Year 2016 = 10, Year 2017 = 18, Year 2018 = 0, Year 2019 = 16, total = 81, max = 19, min = 0
+Category = Kursus Pengkhususan, Name = Patologi Kimia, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Neurofisiologi Klinikal, Year 2014 = 0, Year 2015 = 10, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 10, max = 10, min = 0
+Category = Kursus Pengkhususan, Name = Tomografi Berkomputer, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 48, Year 2019 = 31, total = 79, max = 48, min = 0
+Category = Kursus Pengkhususan, Name = Forensik, Year 2014 = 10, Year 2015 = 16, Year 2016 = 11, Year 2017 = 0, Year 2018 = 18, Year 2019 = 17, total = 72, max = 18, min = 0
+Category = Kursus Pengkhususan, Name = Parasitologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Muskulo - Skeletal, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Keselamatan & Kebersihan Makanan, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Prostesis Maksilofasial, Year 2014 = 16, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 16, max = 16, min = 0
+Category = Kursus Pengkhususan, Name = Perancangan Terapi Pancaran, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Bioteknologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Cytogenetics, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Epidemiologi dan Kawalan Penyakit, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 18, total = 18, max = 18, min = 0
+Category = Kursus Pengkhususan, Name = Kardiopulmonari Fisioterapi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Neurologi Fisioterapi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 0, total = 0, max = 0, min = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Dermatologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 23, Year 2019 = 36, total = 59, max = 36, min = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Luka, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 30, total = 30, max = 30, min = 0
+Category = Kursus Pengkhususan, Name = Penjagaan Reumatologi, Year 2014 = 0, Year 2015 = 0, Year 2016 = 0, Year 2017 = 0, Year 2018 = 0, Year 2019 = 14, total = 14, max = 14, min = 0

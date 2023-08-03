@@ -28,7 +28,8 @@ public class DiplomaData {
     public String toString() {
         return "Category = "+category+", Name = "+name+", " +
                 "Year 2014 = "+year14+", Year 2015 = "+year15+", Year 2016 = "+year16+", " +
-                "Year 2017 = "+year17+", Year 2018 = "+year18+", Year 2019 = "+year19;
+                "Year 2017 = "+year17+", Year 2018 = "+year18+", Year 2019 = "+year19+", total = " +
+                total() + ", max = " + max() + ", min = " + min();
     }
 
     public int total(){
